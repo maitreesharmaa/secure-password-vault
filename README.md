@@ -48,6 +48,12 @@ Security isn't just a claim. The database tables below show how your data is pro
 
 ---
 
+## ✨ Acknowledgements
+
+This project was inspired by the great work on [DevanshuHB/Password-Vault](https://github.com/DevanshuHB/Password-Vault).
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites

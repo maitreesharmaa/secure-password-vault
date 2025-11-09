@@ -1,8 +1,8 @@
-# 🔒 Secure Password Vault 
+# 🔒 Secure Password Vault  
 
 A full-stack, secure password manager built with Node.js, Express, React, and MySQL. This application features end-to-end security with user authentication, password hashing, and credential encryption.
 
-[![Password Vault Demo](./assets/thumbnail.jpg)](./assets/demo.mp4)
+[![Password Vault Demo](./assets/thumbnail.jpg)](https://www.youtube.com/watch?v=wnPA28JJeuM)
 
 ---
 
